@@ -1,0 +1,13 @@
+.timeBarContainer {
+    width: 50%;
+    background-color: #ddd;
+  }
+  
+  .timeBarProgress {
+    height: 20px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    line-height: 20px; 
+  }
+  
